@@ -1,1 +1,1 @@
-# joi-express
+Rest API to resource algorithms using HTTP.
